@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Форма пользователя",
+        "fields": [
+            {"name": "email", "type": "email"},
+            {"name": "phone", "type": "phone"}
+        ]
+    },
+    {
+        "name": "Форма заказа",
+        "fields": [
+            {"name": "order_id", "type": "text"},
+            {"name": "order_date", "type": "date"},
+            {"name": "contact", "type": "phone"}
+        ]
+    }
+]
